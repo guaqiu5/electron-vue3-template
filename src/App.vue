@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
-//src\App.vue
+//src\App.vue 11223344
 import fs from "fs";
 import { ipcRenderer } from "electron";
 import { onMounted } from "vue";
